@@ -49,6 +49,10 @@ Recuerda instalar las dependencias necesarias para iniciar el proyecto:
 
 4. ¿Cómo se pueden realizar operaciones de "búsqueda" en la base de datos, como filtrar mascotas por nombre o especie, usando consultas SQL?
 
+5. ¿Qué parte del código se podria considerar lógica de negocio en este ejercicio?
+
+6. ¿Qué es una conexión? ¿Para qué sirve?
+
 
 ---
 
@@ -60,4 +64,5 @@ La entrega consistirá en un archivo PDF con:
 
 <div style="text-align: center;">
   <img src="image.png" width="300">
+
 </div>
